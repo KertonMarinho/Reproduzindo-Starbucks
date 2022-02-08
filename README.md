@@ -1,3 +1,3 @@
 
 #Button glass
-![Screenshot](assets/images/screenshort.png);
+![Screenshot](/assets/images/screenshort.png);
